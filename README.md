@@ -17,7 +17,7 @@ This project implements a stock price prediction model using Long Short-Term Mem
 - Pandas
 - NumPy
 - Matplotlib
-- Yahoo Finance API
+- Google Dataset
 
 ## Requirements
 To run this project, you will need the following Python packages:
