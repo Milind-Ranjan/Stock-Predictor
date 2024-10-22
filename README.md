@@ -54,10 +54,10 @@ After running the script, you will see the predicted stock prices alongside the 
 
 ### The LSTM model consists of:
 
-•	4 LSTM layers with 50 units each and a dropout layer to prevent overfitting.
-•	An output layer predicting the next stock price.
+-	4 LSTM layers with 50 units each and a dropout layer to prevent overfitting.
+-	An output layer predicting the next stock price.
 
 ### Performance Metrics
 
-•	Mean Absolute Error (MAE): Measures the average magnitude of errors between predicted and actual prices.
-•	R² Score: Indicates the proportion of variance in the dependent variable that can be explained by the independent variable(s).
+-	Mean Absolute Error (MAE): Measures the average magnitude of errors between predicted and actual prices.
+-	R² Score: Indicates the proportion of variance in the dependent variable that can be explained by the independent variable(s).
